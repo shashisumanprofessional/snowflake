@@ -1,6 +1,6 @@
 Topic 1 - [Snowflake Architecture](Snowflake Architecture.md)
 
-[Snowflake Architecture.md](Snowflake Architecture.md)
+[SnowflakeArchitecture.md](SnowflakeArchitecture.md)
 
 [JPAFundamentals.md](JPAFundamentals.md)
 
