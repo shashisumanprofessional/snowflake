@@ -1,7 +1,3 @@
-Topic 1 - [Snowflake Architecture](Snowflake Architecture.md)
+Topic 1 - [SnowflakeArchitecture](SnowflakeArchitecture.md)
 
-[SnowflakeArchitecture.md](SnowflakeArchitecture.md)
-
-[JPAFundamentals.md](JPAFundamentals.md)
-
-Topic 2 - [Loading Data in Snowflake](Loading Data in Snowflake.md)
+Topic 2 - [Loading Data in Snowflake](LoadingDatainSnowflake.md)
